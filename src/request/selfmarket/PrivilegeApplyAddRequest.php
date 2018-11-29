@@ -1,4 +1,5 @@
 <?php
+namespace Justcy\Suning\Request\selfmarket;
 /**
  * 苏宁开放平台接口 - 优惠单活动函申请
  *

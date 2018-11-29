@@ -1,4 +1,5 @@
 <?php
+namespace Justcy\Suning\Request\fws;
 /**
  * 苏宁开放平台接口 - 上传(更新)检测报告
  *

@@ -1,4 +1,5 @@
 <?php
+namespace Justcy\Suning\Request\union;
 /**
  * 苏宁开放平台接口 - 批量查询联盟商品信息
  *

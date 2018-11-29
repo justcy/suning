@@ -1,4 +1,5 @@
 <?php
+namespace Justcy\Suning\Request\selfmarket;
 /**
  * 苏宁开放平台接口 - 批量获取苏宁电子承兑合同
  *

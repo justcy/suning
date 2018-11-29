@@ -1,4 +1,5 @@
 <?php
+namespace Justcy\Suning;
 /**
  * 苏宁开放平台接口-入口文件
  *

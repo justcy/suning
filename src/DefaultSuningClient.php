@@ -1,5 +1,5 @@
 <?php
-
+namespace Justcy\Suning;
 /**
  * 苏宁开放平台接口-基类
  *
@@ -206,7 +206,7 @@ class DefaultSuningClient {
 	 * @param unknown $secret
 	 *        	$return void
 	 */
-	public static function setKeySecret($key, $secret) {
+	public function setKeySecret($key, $secret) {
 		$this -> appKey = $key;
 		$this -> appSecret = $secret;
 	}

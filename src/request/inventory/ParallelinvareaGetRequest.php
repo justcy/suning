@@ -1,4 +1,5 @@
 <?php
+namespace Justcy\Suning\Request\inventory;
 /**
  * 苏宁开放平台接口 - 库存API - （平行仓模式）查询仓库覆盖范围
  *

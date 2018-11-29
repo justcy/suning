@@ -1,4 +1,5 @@
 <?php
+namespace Justcy\Suning\Request\inventory;
 /**
  * 苏宁开放平台接口 - 库存API - 设置仓库地址属性
  *

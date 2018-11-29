@@ -1,4 +1,5 @@
 <?php
+namespace Justcy\Suning\Request\item;
 /**
  * 苏宁开放平台接口 - 商品API - 获取苏宁产品详情信息
  *

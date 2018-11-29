@@ -1,4 +1,5 @@
 <?php
+namespace Justcy\Suning\Request\supply;
 /**
  * 苏宁开放平台接口 - 批量获取订单号
  *

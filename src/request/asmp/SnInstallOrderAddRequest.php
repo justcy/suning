@@ -1,4 +1,5 @@
 <?php
+namespace Justcy\Suning\Request\asmp;
 /**
  * 苏宁开放平台接口 - 苏宁服务订单校验信息反馈
  *

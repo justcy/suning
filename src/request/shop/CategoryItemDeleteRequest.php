@@ -1,4 +1,5 @@
 <?php
+namespace Justcy\Suning\Request\shop;
 /**
  * 苏宁开放平台接口 - 店铺分类商品删除
  *

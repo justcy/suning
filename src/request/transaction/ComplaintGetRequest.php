@@ -1,4 +1,5 @@
 <?php
+namespace Justcy\Suning\Request\transaction;
 /**
  * 苏宁开放平台接口 - 苏宁顾客投诉记录单笔查询
  *

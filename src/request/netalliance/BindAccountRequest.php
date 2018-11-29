@@ -1,4 +1,5 @@
 <?php
+namespace Justcy\Suning\Request\netalliance;
 /**
  * 苏宁开放平台接口 - 绑定第三方账号与苏宁账号
  *

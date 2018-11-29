@@ -1,4 +1,5 @@
 <?php
+namespace Justcy\Suning\Request\transaction;
 /**
  * 苏宁开放平台接口 - 交易API - 批量获取订单号
  *

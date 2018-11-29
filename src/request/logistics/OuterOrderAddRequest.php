@@ -1,4 +1,5 @@
 <?php
+namespace Justcy\Suning\Request\logistics;
 /**
  * 苏宁开放平台接口 - 外部订单创建接口
  *

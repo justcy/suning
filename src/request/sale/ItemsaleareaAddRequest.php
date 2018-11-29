@@ -1,4 +1,5 @@
 <?php
+namespace Justcy\Suning\Request\sale;
 /**
  * 苏宁开放平台接口 - 单品销售范围维护
  *

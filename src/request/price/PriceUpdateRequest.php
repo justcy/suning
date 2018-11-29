@@ -1,4 +1,5 @@
 <?php
+namespace Justcy\Suning\Request\price;
 /**
  * 苏宁开放平台接口 - 价格API - 价格更新(单个)
  *

@@ -1,4 +1,5 @@
 <?php
+namespace Justcy\Suning\Request\refund;
 
 /**
  * 苏宁开放平台接口 - 退货及退款API - 退货信息处理(不同意)

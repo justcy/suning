@@ -1,4 +1,5 @@
 <?php
+namespace Justcy\Suning\Request\refund;
 /**
  * 苏宁开放平台接口 - 退货及退款API - 根据订单修改时间批量获取退货订单信息
  *

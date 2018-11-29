@@ -1,4 +1,5 @@
 <?php
+namespace Justcy\Suning\Request\selfmarket;
 /**
  * 苏宁开放平台接口 - 单笔获取销售报表
  *

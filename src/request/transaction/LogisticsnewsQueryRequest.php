@@ -1,4 +1,5 @@
-<?php 
+<?php
+namespace Justcy\Suning\Request\transaction;
 /**
  * 苏宁开放平台接口 - 交易API - 物流动态查询
  *

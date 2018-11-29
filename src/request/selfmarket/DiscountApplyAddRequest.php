@@ -1,4 +1,5 @@
 <?php
+namespace Justcy\Suning\Request\selfmarket;
 /**
  * 苏宁开放平台接口 - 商业折让对账单申请
  *

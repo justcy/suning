@@ -1,4 +1,5 @@
 <?php
+namespace Justcy\Suning;
 /**
  * 苏宁开放平台接口 - 查询业务类基类
  *

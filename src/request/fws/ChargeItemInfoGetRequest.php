@@ -1,4 +1,5 @@
 <?php
+namespace Justcy\Suning\Request\fws;
 /**
  * 苏宁开放平台接口 - 查询收费项目属性接口
  *

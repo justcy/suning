@@ -1,4 +1,5 @@
 <?php
+namespace Justcy\Suning\Request\retailer;
 /**
  * 苏宁开放平台接口 - 
  *

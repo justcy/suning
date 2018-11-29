@@ -1,4 +1,5 @@
 <?php
+namespace Justcy\Suning\Request\swl;
 /**
  * 苏宁开放平台接口 - 单个仓库可辐射范围查询
  *

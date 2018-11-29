@@ -1,4 +1,5 @@
 <?php
+namespace Justcy\Suning\Request\mirror;
 /**
  * 苏宁开放平台接口 - 3D试衣镜
  *

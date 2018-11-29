@@ -1,4 +1,5 @@
 <?php
+namespace Justcy\Suning\Request\rejected;
 /**
  * 苏宁开放平台接口 - 同意退款验证码获取
  *

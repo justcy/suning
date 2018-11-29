@@ -1,5 +1,5 @@
 <?php
-
+namespace Justcy\Suning;
 /**
  * 苏宁开放平台接口 - 接口调用请求抽象类
  *

@@ -1,4 +1,5 @@
 <?php
+namespace Justcy\Suning\config;
 /**
  * 苏宁开放平台配置文档
  *

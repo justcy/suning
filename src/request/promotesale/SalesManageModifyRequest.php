@@ -1,4 +1,5 @@
 <?php
+namespace Justcy\Suning\Request\promotesale;
 /**
  * 苏宁开放平台接口 - 促销活动管理
  *

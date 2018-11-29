@@ -1,4 +1,5 @@
 <?php
+namespace Justcy\Suning\Request\logistics;
 /**
  * 苏宁开放平台接口 - 苏宁物流跨境购任务派发信息单笔查询
  *

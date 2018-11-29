@@ -1,4 +1,5 @@
 <?php
+namespace Justcy\Suning\Request\sale;
 /**
  * 苏宁开放平台接口 - 销售准备API - 国家代码获取
  *

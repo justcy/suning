@@ -1,4 +1,5 @@
 <?php
+namespace Justcy\Suning\Request\fourps;
 /**
  * 苏宁开放平台接口 - 类目主数据查询接口
  *

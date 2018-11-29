@@ -1,4 +1,5 @@
 <?php
+namespace Justcy\Suning\Request\netalliance;
 /**
  * 苏宁开放平台接口 - 更新外部会员等级接口
  *

@@ -1,4 +1,5 @@
 <?php
+namespace Justcy\Suning\Request\item;
 /**
  * 苏宁开放平台接口 - 获取模块模板
  *

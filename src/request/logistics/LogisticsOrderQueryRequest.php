@@ -1,4 +1,5 @@
 <?php
+namespace Justcy\Suning\Request\logistics;
 /**
  * 苏宁开放平台接口 - 查询苏宁物流顾客面单打印信息 
  *

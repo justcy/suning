@@ -1,4 +1,5 @@
 <?php
+namespace Justcy\Suning\Request\fontorder;
 /**
  * 苏宁开放平台接口 - 
  *

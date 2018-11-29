@@ -1,4 +1,5 @@
 <?php
+namespace Justcy\Suning\Request\sale;
 /**
  * 苏宁开放平台接口 - 销售准备API - 批量查询运费模板
  *

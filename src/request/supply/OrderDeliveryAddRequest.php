@@ -1,4 +1,5 @@
 <?php
+namespace Justcy\Suning\Request\supply;
 /**
  * 苏宁开放平台接口 - 订单发货(合并包裹单号发货)
  *

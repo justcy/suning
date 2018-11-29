@@ -1,4 +1,5 @@
 <?php
+namespace Justcy\Suning\Request\financialrecon;
 /**
  * 苏宁开放平台接口 - 财务API - 根据修改时间批量获取财务对账信息
  *

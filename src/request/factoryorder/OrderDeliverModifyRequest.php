@@ -1,4 +1,5 @@
 <?php
+namespace Justcy\Suning\Request\factoryorder;
 /**
  * 苏宁开放平台接口 - 订单发货单修改
  *

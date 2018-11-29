@@ -1,4 +1,5 @@
 <?php
+namespace Justcy\Suning\Request\fws;
 /**
  * 苏宁开放平台接口 - 删除检测单接口
  *

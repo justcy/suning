@@ -1,4 +1,5 @@
 <?php
+namespace Justcy\Suning\Request\cloud;
 /**
  * 苏宁开放平台接口 - 应用准备完成通知
  *

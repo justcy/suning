@@ -1,4 +1,5 @@
 <?php
+namespace Justcy\Suning;
 class ArrayXML {
 	/**
 	 * 数组转换为xml

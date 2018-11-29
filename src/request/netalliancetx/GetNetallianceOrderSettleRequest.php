@@ -1,4 +1,5 @@
 <?php
+namespace Justcy\Suning\Request\netalliancetx;
 /**
  * 苏宁开放平台接口 - 网盟订单结算信息查询
  *

@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "justcy\\suning\\": "src/"
+            "Justcy\\Suning\\": "src/"
         }
     }
 }

@@ -1,4 +1,5 @@
 <?php
+namespace Justcy\Suning\Request\supply;
 /**
  * 苏宁开放平台接口 - 按照订单修改时间获取退货订单号
  *

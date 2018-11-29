@@ -1,4 +1,5 @@
 <?php
+namespace Justcy\Suning\Request\netallianceju;
 /**
  * 苏宁开放平台接口 - 批量查询大聚会商品信息
  *

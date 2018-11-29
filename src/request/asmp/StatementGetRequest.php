@@ -1,4 +1,5 @@
 <?php
+namespace Justcy\Suning\Request\asmp;
 /**
  * 苏宁开放平台接口 - 直连厂家结算单对账接口
  *
