@@ -1,0 +1,12 @@
+{
+    "name": "justcy/suning",
+    "description": "a sdk for suning",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "chenyu",
+            "email": "chenyu@2xi.com"
+        }
+    ],
+    "require": {}
+}
