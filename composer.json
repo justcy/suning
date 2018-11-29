@@ -8,5 +8,12 @@
             "email": "chenyu@2xi.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php":">=5.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "justcy\\suning\\": "src/"
+        }
+    }
 }
